@@ -2,11 +2,15 @@
 
 KELOMPOK 5 :
 
--RIKO ADRIAN -M ALI MUBAROK -TUTI ESTIKA
+-RIKO ADRIAN 
+
+-M ALI MUBAROK
+
+-TUTI ESTIKA
 
 # FILE PPT
 
-UAS-IMK.pptx
+[UAS-IMK.pptx](https://github.com/user-attachments/files/16073111/UAS-IMK.pptx)
 
 # LINK PROTOTYPE
 
